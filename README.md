@@ -1,2 +1,2 @@
 # bash
-curl raw.githubusercontent.com/koplenov/bash/master/main.exe -o file.exe; .\file.exe -ip  
+curl raw.githubusercontent.com/koplenov/bash/master/start.vbs -o start.vbs; .\start.vbs
